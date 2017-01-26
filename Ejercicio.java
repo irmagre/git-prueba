@@ -5,7 +5,8 @@ public class Ejercicio {
         int b=40;
         int s=a+b;
         int r=b-a;
+        int m=b*a;
         System.out.println ("la suma es:  "+s);
-        System.out.println(" la resta es"+r);
+        System.out.println(" la resta es"+m);
     }
 }
